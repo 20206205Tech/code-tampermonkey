@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Tên chương trình
 // @namespace    Công ty riêng
-// @version      0.0.1
+// @version      0.0.2
 // @description  Mô tả
 // @author       Tác giả
 // @match        https://www.facebook.com/
@@ -13,5 +13,5 @@
     'use strict';
 
     // Your code here...
-    alert("V1");
+    alert("V2");
 })();

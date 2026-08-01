@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         New Userscript
-// @namespace    http://tampermonkey.net/
-// @version      2026-08-01
-// @description  try to take over the world!
-// @author       You
+// @name         Tên chương trình
+// @namespace    Công ty riêng
+// @version      0.0.1
+// @description  Mô tả
+// @author       Tác giả
 // @match        https://www.facebook.com/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=facebook.com
 // @grant        none
